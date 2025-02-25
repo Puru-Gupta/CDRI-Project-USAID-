@@ -10,7 +10,7 @@ This helped shape a solid foundation for the evaluation process.
 Played a hands-on role in organizing data collection activities, ensuring interviews and discussions ran smoothly. 
 From scheduling meetings to keeping detailed data logs, I made sure every piece of information was accounted for.  
 
-## 🎙️ Conducting Interviews & Stakeholder Engagement  
+## Conducting Interviews & Stakeholder Engagement  
 Actively participated in **Key Informant Interviews (KIIs) and Focus Group Discussions (FGDs)** alongside the team lead. Engaged with stakeholders, asked insightful questions, and facilitated discussions to extract valuable perspectives and first-hand insights. Took detailed notes during KIIs and FGDs, capturing not just words but the underlying themes, emotions, and nuances that bring qualitative data to life.  
 
 ## Data Analysis & Insights  
